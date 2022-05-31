@@ -1,0 +1,16 @@
+.bodyCol{
+    background-color: rgb(250,165,0);
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+.topCont{
+    display: flex;
+    align-items: self-end;
+}
+.dateCont{
+    width: 70%;
+    margin: auto 43px;
+    margin-top: 20px;
+}
